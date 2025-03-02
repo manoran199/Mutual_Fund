@@ -1,0 +1,9 @@
+Run the main file from the frontend folder to run the http://localhost:5173/ so that user can
+create a new account for registration and then login to the new account and select the mutual fund type
+It will call the backend main file and fetch the mutual fund data
+Backend is written in python
+Frontend is written in js, react and html
+sqlite for database
+fastapi for client server communication
+
+
